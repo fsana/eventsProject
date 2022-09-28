@@ -1,0 +1,687 @@
+Service,Category,Name,Event
+apigatewayevents,API Gateway,Change Certificate Compartment Begin ,com.oraclecloud.apigateway.changegatewaycertificatecompartment.begin
+apigatewayevents,API Gateway,Change Certificate Compartment End,com.oraclecloud.apigateway.changegatewaycertificatecompartment.end
+apigatewayevents,API Gateway,Create Certificate Begin,com.oraclecloud.apigateway.creategatewaycertificate.begin
+apigatewayevents,API Gateway,Create Certificate End,com.oraclecloud.apigateway.creategatewaycertificate.end
+apigatewayevents,API Gateway,Delete Certificate Begin,com.oraclecloud.apigateway.deletegatewaycertificate.begin
+apigatewayevents,API Gateway,Delete Certificate End,com.oraclecloud.apigateway.deletegatewaycertificate.end
+apigatewayevents,API Gateway,Update Certificate Begin,com.oraclecloud.apigateway.updategatewaycertificate.begin
+apigatewayevents,API Gateway,Update Certificate End ,com.oraclecloud.apigateway.updategatewaycertificate.end
+apigatewayevents,API Gateway,Change Deployment Compartment Begin,com.oraclecloud.apigateway.changedeploymentcompartment.begin
+apigatewayevents,API Gateway,Change Deployment Compartment End,com.oraclecloud.apigateway.changedeploymentcompartment.end
+apigatewayevents,API Gateway,Create Deployment Begin,com.oraclecloud.apigateway.createdeployment.begin
+apigatewayevents,API Gateway,Create Deployment End,com.oraclecloud.apigateway.createdeployment.end
+apigatewayevents,API Gateway,Delete Deployment Begin,com.oraclecloud.apigateway.deletedeployment.begin
+apigatewayevents,API Gateway,Delete Deployment End,com.oraclecloud.apigateway.deletedeployment.end
+apigatewayevents,API Gateway,Update Deployment Begin,com.oraclecloud.apigateway.updatedeployment.begin
+apigatewayevents,API Gateway,Update Deployment End,com.oraclecloud.apigateway.updatedeployment.end
+apigatewayevents,API Gateway,Change Gateway Compartment Begin,com.oraclecloud.apigateway.changegatewaycompartment.begin
+apigatewayevents,API Gateway,Change Gateway Compartment End,com.oraclecloud.apigateway.changegatewaycompartment.end
+apigatewayevents,API Gateway,Create Gateway Begin,com.oraclecloud.apigateway.creategateway.begin
+apigatewayevents,API Gateway,Create Gateway End,com.oraclecloud.apigateway.creategateway.end
+apigatewayevents,API Gateway,Delete Gateway Begin,com.oraclecloud.apigateway.deletegateway.begin
+apigatewayevents,API Gateway,Delete Gateway End,com.oraclecloud.apigateway.deletegateway.end
+apigatewayevents,API Gateway,Update Gateway Begin,com.oraclecloud.apigateway.updategateway.begin
+apigatewayevents,API Gateway,Update Gateway End,com.oraclecloud.apigateway.updategateway.end
+apigatewayevents,API Gateway,Change API Compartment Begin,com.oraclecloud.apigateway.changeapicompartment.begin
+apigatewayevents,API Gateway,Change API Compartment End,com.oraclecloud.apigateway.changeapicompartment.end
+apigatewayevents,API Gateway,Create API Begin,com.oraclecloud.apigateway.createapi.begin
+apigatewayevents,API Gateway,Create API End,com.oraclecloud.apigateway.createapi.end
+apigatewayevents,API Gateway,Delete API Begin,com.oraclecloud.apigateway.deleteapi.begin
+apigatewayevents,API Gateway,Delete API End,com.oraclecloud.apigateway.deleteapi.end
+apigatewayevents,API Gateway,Update API Begin,com.oraclecloud.apigateway.updateapi.begin
+apigatewayevents,API Gateway,Update API End,com.oraclecloud.apigateway.updateapi.end
+blockevents,Block Volume,Change Volume Compartment Begin,com.oraclecloud.blockvolumes.changevolumecompartment.begin
+blockevents,Block Volume,Change Volume Compartment End,com.oraclecloud.blockvolumes.changevolumecompartment.end
+blockevents,Block Volume,Create Volume Begin,com.oraclecloud.blockvolumes.createvolume.begin
+blockevents,Block Volume,Create Volume End,com.oraclecloud.blockvolumes.createvolume.end
+blockevents,Block Volume,Delete Volume Begin,com.oraclecloud.blockvolumes.deletevolume.begin
+blockevents,Block Volume,Delete Volume End,com.oraclecloud.blockvolumes.deletevolume.end
+blockevents,Block Volume,Delete Volume Kms Key Begin,com.oraclecloud.blockvolumes.deletevolumekmskey.begin
+blockevents,Block Volume,Update Volume,com.oraclecloud.blockvolumes.updatevolume
+blockevents,Block Volume,Update Volume Begin,com.oraclecloud.blockvolumes.updatevolume.begin
+blockevents,Block Volume,Update Volume End,com.oraclecloud.blockvolumes.updatevolume.end
+blockevents,Block Volume,Update Volume Kms Key Begin,com.oraclecloud.blockvolumes.updatevolumekmskey.begin
+blockevents,Block Volume,Update Volume Kms Key End,com.oraclecloud.blockvolumes.updatevolumekmskey.end
+blockevents,Block Volume,Change Volume Backup Compartment,com.oraclecloud.blockvolumes.changevolumebackupcompartment
+blockevents,Block Volume,Copy Volume Backup Begin,com.oraclecloud.blockvolumes.copyvolumebackup.begin
+blockevents,Block Volume,Copy Volume Backup End,com.oraclecloud.blockvolumes.copyvolumebackup.end
+blockevents,Block Volume,Create Volume Backup Begin,com.oraclecloud.blockvolumes.createvolumebackup.begin
+blockevents,Block Volume,Create Volume Backup End,com.oraclecloud.blockvolumes.createvolumebackup.end
+blockevents,Block Volume,Create Volume Backup Policy Assignment,com.oraclecloud.blockvolumes.createvolumebackuppolicyassignment
+blockevents,Block Volume,Delete Volume Backup Begin,com.oraclecloud.blockvolumes.deletevolumebackup.begin
+blockevents,Block Volume,Delete Volume Backup End,com.oraclecloud.blockvolumes.deletevolumebackup.end
+blockevents,Block Volume,Delete Volume Backup Policy Assignment,com.oraclecloud.blockvolumes.deletevolumebackuppolicyassignment
+blockevents,Block Volume,Update Volume Backup,com.oraclecloud.blockvolumes.updatevolumebackup
+blockevents,Block Volume,Update Volume Backup Policy,com.oraclecloud.blockvolumes.updatevolumebackuppolicy
+blockevents,Block Volume,Change Boot Volume Compartment Begin,com.oraclecloud.blockvolumes.changebootvolumecompartment.begin
+blockevents,Block Volume,Change Boot Volume Compartment End,com.oraclecloud.blockvolumes.changebootvolumecompartment.end
+blockevents,Block Volume,Create Boot Volume Begin,com.oraclecloud.blockvolumes.createbootvolume.begin
+blockevents,Block Volume,Create Boot Volume End,com.oraclecloud.blockvolumes.createbootvolume.end
+blockevents,Block Volume,Delete Boot Volume Begin,com.oraclecloud.blockvolumes.deletebootvolume.begin
+blockevents,Block Volume,Delete Boot Volume End,com.oraclecloud.blockvolumes.deletebootvolume.end
+blockevents,Block Volume,Delete Boot Volume Kms Key Begin,com.oraclecloud.blockvolumes.deletebootvolumekmskey.begin
+blockevents,Block Volume,Update Boot Volume,com.oraclecloud.blockvolumes.updatebootvolume
+blockevents,Block Volume,Update Boot Volume Begin,com.oraclecloud.blockvolumes.updatebootvolume.begin
+blockevents,Block Volume,Update Boot Volume End,com.oraclecloud.blockvolumes.updatebootvolume.end
+blockevents,Block Volume,Update Boot Volume Kms Key Begin,com.oraclecloud.blockvolumes.updatebootvolumekmskey.begin
+blockevents,Block Volume,Update Boot Volume Kms Key End,com.oraclecloud.blockvolumes.updatebootvolumekmskey.end
+blockevents,Block Volume,Change Boot Volume Backup Compartment,com.oraclecloud.blockvolumes.changebootvolumebackupcompartment
+blockevents,Block Volume,Copy Boot Volume Backup Begin,com.oraclecloud.blockvolumes.copybootvolumebackup.begin
+blockevents,Block Volume,Copy Boot Volume Backup End,com.oraclecloud.blockvolumes.copybootvolumebackup.end
+blockevents,Block Volume,Create Boot Volume Backup Begin,com.oraclecloud.blockvolumes.createbootvolumebackup.begin
+blockevents,Block Volume,Create Boot Volume Backup End,com.oraclecloud.blockvolumes.createbootvolumebackup.end
+blockevents,Block Volume,Delete Boot Volume Backup Begin,com.oraclecloud.blockvolumes.deletebootvolumebackup.begin
+blockevents,Block Volume,Delete Boot Volume Backup End,com.oraclecloud.blockvolumes.deletebootvolumebackup.end
+blockevents,Block Volume,Update Boot  Volume Backup,com.oraclecloud.blockvolumes.updatebootvolumebackup
+blockevents,Block Volume,Change Volume Group Compartment,com.oraclecloud.blockvolumes.changevolumegroupcompartment
+blockevents,Block Volume,Change Volume Group Backup Compartment,com.oraclecloud.blockvolumes.changevolumegroupbackupcompartment
+blockevents,Block Volume,Create Volume Group,com.oraclecloud.blockvolumes.createvolumegroup
+blockevents,Block Volume,Create Volume Group Begin,com.oraclecloud.blockvolumes.createvolumegroup.begin
+blockevents,Block Volume,Create Volume Group End,com.oraclecloud.blockvolumes.createvolumegroup.end
+blockevents,Block Volume,Create Volume Group Backup Begin,com.oraclecloud.blockvolumes.createvolumegroupbackup.begin
+blockevents,Block Volume,Create Volume Group Backup End,com.oraclecloud.blockvolumes.createvolumegroupbackup.end
+blockevents,Block Volume,Delete Volume Group  Begin,com.oraclecloud.blockvolumes.deletevolumegroup.begin
+blockevents,Block Volume,Delete Volume Group End,com.oraclecloud.blockvolumes.deletevolumegroup.end
+blockevents,Block Volume,Delete Volume Group Backup Begin,com.oraclecloud.blockvolumes.deletevolumegroupbackup.begin
+blockevents,Block Volume,Delete Volume Group Backup End,com.oraclecloud.blockvolumes.deletevolumegroupbackup.end
+blockevents,Block Volume,Update Volume Group,com.oraclecloud.blockvolumes.updatevolumegroup
+blockevents,Block Volume,Update Volume Group Backup,com.oraclecloud.blockvolumes.updatevolumegroupbackup
+budgets,Budgets,Create Alert Rule,com.oraclecloud.budgets.createalertrule
+budgets,Budgets,Update Alert Rule,com.oraclecloud.budgets.updatealertrule
+budgets,Budgets,Delete Alert Rule,com.oraclecloud.budgets.deletealertrule
+budgets,Budgets,Create Budget,com.oraclecloud.budgets.createbudget
+budgets,Budgets,Update Budget,com.oraclecloud.budgets.updatebudget
+budgets,Budgets,Delete Budget,com.oraclecloud.budgets.deletebudget
+budgets,Budgets,Create Triggered Alert,com.oraclecloud.budgets.createtriggeredalert
+cloudguardevents,,Detected-Problem,com.oraclecloud.cloudguard.problemdetected
+cloudguardevents,,Remediated-Problem,com.oraclecloud.cloudguard.problemremediated
+cloudguardevents,,Create Security Recipe,com.oraclecloud.cloudGuard.CreateSecurityRecipe
+cloudguardevents,,Update Security Recipe,com.oraclecloud.cloudGuard.UpdateSecurityRecipe
+cloudguardevents,,Create Security Zone,com.oraclecloud.cloudGuard.CreateSecurityZone
+cloudguardevents,,Update Security Zone,com.oraclecloud.cloudGuard.UpdateSecurityZone
+cloudguardevents,,Target-Information,com.oraclecloud.cloudguard.targetinformation
+computeevents,Compute,Change Autoscaling Configuration Compartment,com.oraclecloud.autoscaling.changeautoscalingconfigurationcompartment
+computeevents,Compute,Create Autoscaling Configuration ,com.oraclecloud.autoscaling.createautoscalingconfiguration
+computeevents,Compute,Delete Autoscaling Configuration ,com.oraclecloud.autoscaling.deleteautoscalingconfiguration
+computeevents,Compute,Scaling Action ,com.oraclecloud.autoscaling.scalingaction
+computeevents,Compute,Update Autoscaling Configuration ,com.oraclecloud.autoscaling.updateautoscalingconfiguration
+computeevents,Compute,Update Autoscaling Policy ,com.oraclecloud.autoscaling.updateautoscalingpolicy
+computeevents,Compute,Change Capacity Reservation Compartment Begin,com.oraclecloud.computeapi.ChangeComputeCapacityReservation.begin
+computeevents,Compute,Change Capacity Reservation Compartment End,com.oraclecloud.computeapi.ChangeComputeCapacityReservation.end
+computeevents,Compute,Create Capacity Reservation Begin,com.oraclecloud.computeapi.CreateComputeCapacityReservation.begin
+computeevents,Compute,Create Capacity Reservation End,com.oraclecloud.computeapi.CreateComputeCapacityReservation.end
+computeevents,Compute,Delete Capacity Reservation Begin,com.oraclecloud.computeapi.DeleteComputeCapacityReservation.begin
+computeevents,Compute,Delete Capacity Reservation End,com.oraclecloud.computeapi.DeleteComputeCapacityReservation.end
+computeevents,Compute,Update Capacity Reservation Begin,com.oraclecloud.computeapi.UpdateComputeCapacityReservation.begin
+computeevents,Compute,Update Capacity Reservation End,com.oraclecloud.computeapi.DeleteComputeCapacityReservation.end
+computeevents,Compute,Change Cluster Network Compartment,com.oraclecloud.computemanagement.changeclusternetworkcompartment
+computeevents,Compute,Create Cluster Network Begin ,com.oraclecloud.computemanagement.createclusternetwork.begin
+computeevents,Compute,Create Cluster Network End ,com.oraclecloud.computemanagement.createclusternetwork.end
+computeevents,Compute,Terminate Cluster Network Begin ,com.oraclecloud.computemanagement.terminateclusternetwork.begin
+computeevents,Compute,Terminate Cluster Network End ,com.oraclecloud.computemanagement.terminateclusternetwork.end
+computeevents,Compute,Capture Console History Begin,com.oraclecloud.computeapi.captureconsolehistory.begin
+computeevents,Compute,Capture Console History End,com.oraclecloud.computeapi.captureconsolehistory.end
+computeevents,Compute,Delete Console History,com.oraclecloud.computeapi.deleteconsolehistory
+computeevents,Compute,Update Console History,com.oraclecloud.computeapi.updateconsolehistory
+computeevents,Compute,Add Image Shape Compatibility,com.oraclecloud.computeapi.addimageshapecompatibility
+computeevents,Compute,Change Image Compartment,com.oraclecloud.computeapi.moveimage
+computeevents,Compute,Create Image Begin,com.oraclecloud.computeapi.createimage.begin
+computeevents,Compute,Create Image End,com.oraclecloud.computeapi.createimage.end
+computeevents,Compute,Delete Image,com.oraclecloud.computeapi.deleteimage
+computeevents,Compute,Export Image Begin,com.oraclecloud.computeapi.exportimage.begin
+computeevents,Compute,Export Image End,com.oraclecloud.computeapi.exportimage.end
+computeevents,Compute,Remove Image Shape Compatibility,com.oraclecloud.computeapi.removeimageshapecompatibility
+computeevents,Compute,Update Image,com.oraclecloud.computeapi.updateimage
+computeevents,Compute,Attach Boot Volume Begin,com.oraclecloud.computeapi.attachbootvolume.begin
+computeevents,Compute,Attach Boot Volume End,com.oraclecloud.computeapi.attachbootvolume.end
+computeevents,Compute,Attach Secondary VNIC Begin,com.oraclecloud.computeapi.attachvnic.begin
+computeevents,Compute,Attach Secondary VNIC End,com.oraclecloud.computeapi.attachvnic.end
+computeevents,Compute,Attach Volume Begin,com.oraclecloud.computeapi.attachvolume.begin
+computeevents,Compute,Attach Volume End,com.oraclecloud.computeapi.attachvolume.end
+computeevents,Compute,Change Instance Compartment Begin,com.oraclecloud.computeapi.changeinstancecompartment.begin
+computeevents,Compute,Change Instance Compartment End,com.oraclecloud.computeapi.changeinstancecompartment.end
+computeevents,Compute,Detach Boot Volume Begin,com.oraclecloud.computeapi.detachbootvolume.begin
+computeevents,Compute,Detach Boot Volume End,com.oraclecloud.computeapi.detachbootvolume.end
+computeevents,Compute,Detach Secondary VNIC Begin,com.oraclecloud.computeapi.detachvnic.begin
+computeevents,Compute,Detach Secondary VNIC End,com.oraclecloud.computeapi.detachvnic.end
+computeevents,Compute,Detach Volume Begin,com.oraclecloud.computeapi.detachvolume.begin
+computeevents,Compute,Detach Volume End,com.oraclecloud.computeapi.detachvolume.end
+computeevents,Compute,Instance Action Begin,com.oraclecloud.computeapi.instanceaction.begin
+computeevents,Compute,Instance Action End,com.oraclecloud.computeapi.instanceaction.end
+computeevents,Compute,Instance Preemption Action,com.oraclecloud.computeapi.instancepreemptionaction
+computeevents,Compute,Launch Instance Begin,com.oraclecloud.computeapi.launchinstance.begin
+computeevents,Compute,Launch Instance End,com.oraclecloud.computeapi.launchinstance.end
+computeevents,Compute,Terminate Instance Begin,com.oraclecloud.computeapi.terminateinstance.begin
+computeevents,Compute,Terminate Instance End,com.oraclecloud.computeapi.terminateinstance.end
+computeevents,Compute,Update Instance,com.oraclecloud.computeapi.updateinstance
+computeevents,Compute,Change Instance Configuration Compartment,com.oraclecloud.computemanagement.changeinstanceconfigurationcompartment
+computeevents,Compute,Create Instance Configuration ,com.oraclecloud.computemanagement.createinstanceconfiguration
+computeevents,Compute,Delete Instance Configuration ,com.oraclecloud.computemanagement.deleteinstanceconfiguration
+computeevents,Compute,Launch Instance Configuration Begin ,com.oraclecloud.computemanagement.launchinstanceconfiguration.begin
+computeevents,Compute,Launch Instance Configuration End ,com.oraclecloud.computemanagement.launchinstanceconfiguration.end
+computeevents,Compute,Update Instance Configuration,com.oraclecloud.computemanagement.updateinstanceconfiguration
+computeevents,Compute,Create Instance Console Connection Begin,com.oraclecloud.computeapi.createinstanceconsoleconnection.begin
+computeevents,Compute,Create Instance Console Connection End,com.oraclecloud.computeapi.createinstanceconsoleconnection.end
+computeevents,Compute,Delete Instance Console Connection Begin,com.oraclecloud.computeapi.deleteinstanceconsoleconnection.begin
+computeevents,Compute,Delete Instance Console Connection End,com.oraclecloud.computeapi.deleteinstanceconsoleconnection.end
+computeevents,Compute,Update Instance Console Connection Begin,com.oraclecloud.computeapi.updateinstanceconsoleconnection.begin
+computeevents,Compute,Update Instance Console Connection End,com.oraclecloud.computeapi.updateinstanceconsoleconnection.end
+computeevents,Compute,Live Migration Begin,com.oraclecloud.computeapi.livemigrate.begin
+computeevents,Compute,Live Migration End,com.oraclecloud.computeapi.livemigrate.end
+computeevents,Compute,Schedule Maintenance,com.oraclecloud.computeapi.schedulemaintenance
+computeevents,Compute,Attach Load Balancer Begin,com.oraclecloud.computemanagement.attachloadbalancer.begin
+computeevents,Compute,Attach Load Balancer End,com.oraclecloud.computemanagement.attachloadbalancer.end
+computeevents,Compute,Change Instance Pool Compartment,com.oraclecloud.computemanagement.changeinstancepoolcompartment
+computeevents,Compute,Create Instance Pool Begin,com.oraclecloud.computemanagement.createinstancepool.begin
+computeevents,Compute,Create Instance Pool End ,com.oraclecloud.computemanagement.createinstancepool.end
+computeevents,Compute,Detach Load Balancer Begin ,com.oraclecloud.computemanagement.detachloadbalancer.begin
+computeevents,Compute,Detach Load Balancer End ,com.oraclecloud.computemanagement.detachloadbalancer.end
+computeevents,Compute,Reset Instance Pool Begin ,com.oraclecloud.computemanagement.resetinstancepool.begin
+computeevents,Compute,Reset Instance Pool End ,com.oraclecloud.computemanagement.resetinstancepool.end
+computeevents,Compute,Soft Reset Instance Pool Begin ,com.oraclecloud.computemanagement.softresetinstancepool.begin
+computeevents,Compute,Soft Reset Instance Pool End ,com.oraclecloud.computemanagement.softresetinstancepool.end
+computeevents,Compute,Start Instance Pool Begin ,com.oraclecloud.computemanagement.startinstancepool.begin
+computeevents,Compute,Start Instance Pool End ,com.oraclecloud.computemanagement.startinstancepool.end
+computeevents,Compute,Stop Instance Pool Begin ,com.oraclecloud.computemanagement.stopinstancepool.begin
+computeevents,Compute,Stop Instance Pool End ,com.oraclecloud.computemanagement.stopinstancepool.end
+computeevents,Compute,Terminate Instance Pool Begin ,com.oraclecloud.computemanagement.terminateinstancepool.begin
+computeevents,Compute,Terminate Instance Pool End ,com.oraclecloud.computemanagement.terminateinstancepool.end
+computeevents,Compute,Update Instance Pool Begin,com.oraclecloud.computemanagement.updateinstancepool.begin
+computeevents,Compute,Update Instance Pool End,com.oraclecloud.computemanagement.updateinstancepool.end
+contengevents,Container Engine for Kubernetes,Create Cluster Begin,com.oraclecloud.clustersapi.createcluster.begin
+contengevents,Container Engine for Kubernetes,Delete Cluster Begin,com.oraclecloud.clustersapi.deletecluster.begin
+contengevents,Container Engine for Kubernetes,Update Cluster Begin,com.oraclecloud.clustersapi.updatecluster.begin
+contengevents,Container Engine for Kubernetes,Create Node Pool Begin,com.oraclecloud.clustersapi.createnodepool.begin
+contengevents,Container Engine for Kubernetes,Delete Node Pool Begin,com.oraclecloud.clustersapi.deletenodepool.begin
+contengevents,Container Engine for Kubernetes,Update Node Pool Begin,com.oraclecloud.clustersapi.updatenodepool.begin
+ocir-events,Container Registry,Container Configuration - Update,com.oraclecloud.artifacts.updatecontainerconfiguration
+ocir-events,Container Registry,Container Image - Delete,com.oraclecloud.artifacts.deletecontainerimage
+ocir-events,Container Registry,Container Image - Remove Version,com.oraclecloud.artifacts.removecontainerversion
+ocir-events,Container Registry,Container Image - Restore,com.oraclecloud.artifacts.restorecontainerimage
+ocir-events,Container Registry,Container Image - Delete,com.oraclecloud.artifacts.deletedockerimage
+ocir-events,Container Registry,Container Image - Read Manifest,com.oraclecloud.artifacts.readdockerrepositorymanifest
+ocir-events,Container Registry,Container Image - Upload,com.oraclecloud.artifacts.uploaddockerimage
+ocir-events,Container Registry,Container Image Signature - Delete,com.oraclecloud.artifacts.deletecontainerimagesignature
+ocir-events,Container Registry,Container Image Signature - Upload,com.oraclecloud.artifacts.uploadcontainerimagesignature
+ocir-events,Container Registry,Container Repository - Delete (Legacy),com.oraclecloud.artifacts.deletedockerrepository
+ocir-events,Container Registry,Container Repository - Delete Contents (Legacy),com.oraclecloud.artifacts.deletedockerrepositorycontents
+ocir-events,Container Registry,Container Repository - Remove Version (Legacy),com.oraclecloud.artifacts.removedockertag
+ocir-events,Container Registry,Container Repository - Update (Legacy),com.oraclecloud.artifacts.updatedockerrepositorymetadata
+ocir-events,Container Registry,Container Repository - Change Compartment,com.oraclecloud.artifacts.changecontainerrepositorycompartment
+ocir-events,Container Registry,Container Repository - Create,com.oraclecloud.artifacts.createcontainerrepository
+ocir-events,Container Registry,Container Repository - Delete,com.oraclecloud.artifacts.deletecontainerrepository
+ocir-events,Container Registry,Container Repository - Update,com.oraclecloud.artifacts.updatecontainerrepository
+ocir-events,Container Registry,Container Repository - Delete Layer,com.oraclecloud.artifacts.deletedockerlayer
+ocir-events,Container Registry,Container Repository - Pull Layer,com.oraclecloud.artifacts.pulldockerlayer
+ocir-events,Container Registry,Container Repository - Read Metadata,com.oraclecloud.artifacts.readdockerrepositorymetadata
+ocir-events,Container Registry,Container Repository - Upload Layer,com.oraclecloud.artifacts.uploaddockerlayer
+ocir-events,Container Registry,Retention Policy - Create,com.oraclecloud.artifacts.createimageretentionpolicy
+ocir-events,Container Registry,Retention Policy - Delete,com.oraclecloud.artifacts.deleteimageretentionpolicy
+ocir-events,Container Registry,Retention Policy - Update,com.oraclecloud.artifacts.updateimageretentionpolicy
+dataslabeling,Data Labeling,Create Dataset Begin,com.oraclecloud.dls-prod-cp.CreateDataset.begin
+dataslabeling,Data Labeling,Create Dataset End,com.oraclecloud.data-labeling-service-worker.CreateDataset.end
+datatransfer,Data Transfer,Add Transfer Job,com.oraclecloud.datatransferservice.addtransferjob
+datatransfer,Data Transfer,Update Transfer Job,com.oraclecloud.datatransferservice.updatetransferjob
+datatransfer,Data Transfer, Delete Transfer Job,com.oraclecloud.datatransferservice.deletetransferjob
+datatransfer,Data Transfer, Move Transfer Job,com.oraclecloud.datatransferservice.movetransferjob
+datatransfer,Data Transfer,Add Transfer Appliance,com.oraclecloud.datatransferservice.addtransferappliance
+datatransfer,Data Transfer,Update Transfer Appliance,com.oraclecloud.datatransferservice.updatetransferappliance
+datatransfer,Data Transfer, Delete Transfer Appliance,com.oraclecloud.datatransferservice.deletetransferappliance
+datatransfer,Data Transfer,Add Transfer Package,com.oraclecloud.datatransferservice.addtransferpackage
+datatransfer,Data Transfer,Update Transfer Package,com.oraclecloud.datatransferservice.updatetransferpackage
+datatransfer,Data Transfer, Delete Transfer Package,com.oraclecloud.datatransferservice.deletetransferpackage
+datatransfer,Data Transfer,Attach Devices To Transfer Package,com.oraclecloud.datatransferservice.addtransferpackage
+datatransfer,Data Transfer,Detach Devices From Transfer Package,com.oraclecloud.datatransferservice.deletetransferpackage
+datatransfer,Data Transfer,Add Transfer Device,com.oraclecloud.datatransferservice.addtransferdevice
+datatransfer,Data Transfer,Update Transfer Device,com.oraclecloud.datatransferservice.updatetransferdevice
+datatransfer,Data Transfer, Delete Transfer Device,com.oraclecloud.datatransferservice.deletetransferdevice
+datatransfer,Data Transfer,Create Transfer Appliance Entitlement,com.oraclecloud.datatransferservice.createtransferapplianceentitlement
+datatransfer,Data Transfer,Update Transfer Appliance Entitlement,com.oraclecloud.datatransferservice.updatetransferapplianceentitlement
+datatransfer,Data Transfer,Delete Transfer Appliance Entitlement,com.oraclecloud.datatransferservice.updatetransferapplianceentitlement
+datatransfer,Data Transfer,Add Appliance Export Job,com.oraclecloud.datatransferservice.addapplianceexportjob
+datatransfer,Data Transfer,Update  Appliance Export Job,com.oraclecloud.datatransferservice.updateapplianceexportjob
+datatransfer,Data Transfer, Delete  Appliance Export Job,com.oraclecloud.datatransferservice.deleteapplianceexportjob
+datatransfer,Data Transfer, Move  Appliance Export Job,com.oraclecloud.datatransferservice.moveapplianceexportjob
+dbaasevents,Database,"Access Control Lists Update
+                                Begin",com.oraclecloud.databaseservice.updateautonomousdatabaseacl.begin
+dbaasevents,Database,"Access Control Lists Update
+                                End",com.oraclecloud.databaseservice.updateautonomousdatabaseacl.end
+dbaasevents,Database,Auto Scaling Disabled,com.oraclecloud.databaseservice.autonomousdatabaseautoscaledisabled
+dbaasevents,Database,Auto Scaling Enabled,com.oraclecloud.databaseservice.autonomousdatabaseautoscaleenabled
+dbaasevents,Database,Automatic Backup Begin,com.oraclecloud.databaseservice.automaticbackupautonomousdatabase.begin
+dbaasevents,Database,Automatic Backup End,com.oraclecloud.databaseservice.automaticbackupautonomousdatabase.end
+dbaasevents,Database,"Change Compartment
+                                Begin",com.oraclecloud.databaseservice.changeautonomousdatabasecompartment.begin
+dbaasevents,Database," Change Compartment
+                                End",com.oraclecloud.databaseservice.changeautonomousdatabasecompartment.end
+dbaasevents,Database,Change Database Name Begin,com.oraclecloud.databaseservice.changeautonomousdatabasename.begin
+dbaasevents,Database,Change Database Name End,com.oraclecloud.databaseservice.changeautonomousdatabasename.end
+dbaasevents,Database,"Create Backup
+                                Begin",com.oraclecloud.databaseservice.autonomous.database.backup.begin
+dbaasevents,Database,"Create Backup
+                                End",com.oraclecloud.databaseservice.autonomous.database.backup.end
+dbaasevents,Database,Create Begin,com.oraclecloud.databaseservice.autonomous.database.instance.create.begin
+dbaasevents,Database,Create End,com.oraclecloud.databaseservice.autonomous.database.instance.create.end
+dbaasevents,Database,"
+",com.oraclecloud.databaseservice.autonomous.database.critical
+dbaasevents,Database,"Deregister Autonomous Database
+                                with Data Safe Begin",com.oraclecloud.databaseservice.deregisterautonomousdatabasedatasafe.begin
+dbaasevents,Database,"Deregister Autonomous Database
+                                with Data Safe End",com.oraclecloud.databaseservice.deregisterautonomousdatabasedatasafe.end
+dbaasevents,Database,"Disable Data Guard
+                                Begin ",com.oraclecloud.databaseservice.disableautonomousdataguard.begin
+dbaasevents,Database,"Disable Data Guard End
+                                        ",com.oraclecloud.databaseservice.disableautonomousdataguard.end
+dbaasevents,Database,"Disconnect Refreshable Clone from
+                                Source Database Begin",com.oraclecloud.databaseservice.disconnectrefreshableautonomousdatabaseclonefromsource.begin
+dbaasevents,Database,"Disconnect Refreshable Clone from
+                                Source Database End",com.oraclecloud.databaseservice.disconnectrefreshableautonomousdatabaseclonefromsource.end
+dbaasevents,Database,"Enable Data Guard
+                                Begin ",com.oraclecloud.databaseservice.enableautonomousdataguard.begin
+dbaasevents,Database,"Enable Data Guard End
+                                        ",com.oraclecloud.databaseservice.enableautonomousdataguard.end
+dbaasevents,Database,"Free Database
+                                Automatic Stop Reminder ",com.oraclecloud.databaseservice.freeautonomousdatabasestopreminder
+dbaasevents,Database,"Free Database
+                                Automatically Stopped",com.oraclecloud.databaseservice.freeautonomousdatabasestopped
+dbaasevents,Database,"Free Database
+                                Automatic Termination Reminder ",com.oraclecloud.databaseservice.freeautonomousdatabaseterminationreminder
+dbaasevents,Database,"Free Database
+                                Automatically Terminated",com.oraclecloud.databaseservice.freeautonomousdatabaseterminated
+dbaasevents,Database,"Generate
+                                Wallet",com.oraclecloud.databaseservice.generateautonomousdatabasewallet
+dbaasevents,Database,"
+",com.oraclecloud.databaseservice.autonomous.database.information
+dbaasevents,Database,"
+",com.oraclecloud.databaseservice.failoverautonomousdatabase.begin
+dbaasevents,Database,"Manual Failover End
+                                    ",com.oraclecloud.databaseservice.failoverautonomousdatabase.end
+dbaasevents,Database,"
+",com.oraclecloud.databaseservice.manualrefresh.begin
+dbaasevents,Database,Manual Refresh End,com.oraclecloud.databaseservice.manualrefresh.end
+dbaasevents,Database,"Deregister Autonomous Database
+                                with Data Safe Begin",com.oraclecloud.databaseservice.deregisterautonomousdatabasedatasafe.begin
+dbaasevents,Database,"Deregister Autonomous Database
+                                with Data Safe End",com.oraclecloud.databaseservice.deregisterautonomousdatabasedatasafe.end
+dbaasevents,Database,"Register Autonomous Database with
+                                Data Safe Begin",com.oraclecloud.databaseservice.registerautonomousdatabasedatasafe.begin
+dbaasevents,Database,"Register Autonomous Database with
+                                Data Safe End",com.oraclecloud.databaseservice.registerautonomousdatabasedatasafe.end
+dbaasevents,Database,Restart Begin,com.oraclecloud.databaseservice.restartautonomousdatabase.begin
+dbaasevents,Database,Restart End,com.oraclecloud.databaseservice.restartautonomousdatabase.end
+dbaasevents,Database,Restore Begin,com.oraclecloud.databaseservice.autonomous.database.restore.begin
+dbaasevents,Database,Restore End,com.oraclecloud.databaseservice.autonomous.database.restore.end
+dbaasevents,Database,"Rotate Encryption Key
+                                Begin",com.oraclecloud.databaseservice.rotateautonomousdatabaseencryptionkey.begin
+dbaasevents,Database,Rotate Encryption Key End,com.oraclecloud.databaseservice.rotateautonomousdatabaseencryptionkey.end
+dbaasevents,Database,Start Begin,com.oraclecloud.databaseservice.startautonomousdatabase.begin
+dbaasevents,Database,Start End,com.oraclecloud.databaseservice.startautonomousdatabase.end
+dbaasevents,Database,Stop Begin,com.oraclecloud.databaseservice.stopautonomousdatabase.begin
+dbaasevents,Database,Stop End,com.oraclecloud.databaseservice.stopautonomousdatabase.end
+dbaasevents,Database,Switchover Begin ,com.oraclecloud.databaseservice.switchoverautonomousdatabase.begin
+dbaasevents,Database,"Switchover End
+                                    ",com.oraclecloud.databaseservice.switchoverautonomousdatabase.end
+dbaasevents,Database,"Terminate
+                                Begin",com.oraclecloud.databaseservice.deleteautonomousdatabase.begin
+dbaasevents,Database,Terminate End,com.oraclecloud.databaseservice.deleteautonomousdatabase.end
+dbaasevents,Database,Update Begin,com.oraclecloud.databaseservice.updateautonomousdatabase.begin
+dbaasevents,Database,Update End,com.oraclecloud.databaseservice.updateautonomousdatabase.end
+dbaasevents,Database,Update Open Mode Begin,com.oraclecloud.databaseservice.updateautonomousdatabaseopenmode.begin
+dbaasevents,Database,Update Open Mode End,com.oraclecloud.databaseservice.updateautonomousdatabaseopenmode.end
+dbaasevents,Database,"Upgrade Database
+                                Version Begin",com.oraclecloud.databaseservice.upgradeautonomousdatabasedbversion.begin
+dbaasevents,Database,"Upgrade Database
+                                Version End",com.oraclecloud.databaseservice.upgradeautonomousdatabasedbversion.end
+dbaasevents,Database,Critical ,com.oraclecloud.databaseservice.autonomous.database.critical
+dbaasevents,Database,Information,com.oraclecloud.databaseservice.autonomous.database.information
+dbaasevents,Database,,
+dbaasevents,Database,"
+",
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,
+dbaasevents,Database,,com.oraclecloud.databaseservice.createautonomousdataguardassociation.begin
+dbaasevents,Database,,com.oraclecloud.databaseservice.createautonomousdataguardassociation.end
+dbaasevents,Database,,com.oraclecloud.databaseservice.failoverautonomousdataguardassociation.begin
+dbaasevents,Database,,com.oraclecloud.databaseservice.failoverautonomousdataguardassociation.end
+dbaasevents,Database,,com.oraclecloud.databaseservice.reinstateautonomousdataguardassociation.begin
+dbaasevents,Database,,com.oraclecloud.databaseservice.reinstateautonomousdataguardassociation.end
+dbaasevents,Database,,com.oraclecloud.databaseservice.switchoverautonomousdataguardassociation.begin
+dbaasevents,Database,,com.oraclecloud.databaseservice.switchoverautonomousdataguardassociation.end
+dbaasevents,Database,"External Container Database - Change Compartment
+                                Begin",com.oraclecloud.databaseservice.changeexternalcontainerdatabasecompartment.begin
+dbaasevents,Database,"External Container Database - Change Compartment
+                                End",com.oraclecloud.databaseservice.changeexternalcontainerdatabasecompartment.end
+dbaasevents,Database,External Container Database - Create,com.oraclecloud.databaseservice.createexternalcontainerdatabase
+dbaasevents,Database,External Container Database - Delete Begin,com.oraclecloud.databaseservice.deleteexternalcontainerdatabase.begin
+dbaasevents,Database,External Container Database - Delete End,com.oraclecloud.databaseservice.deleteexternalcontainerdatabase.end
+dbaasevents,Database,"External Container Database - Disable Database
+                                Management Service Begin",com.oraclecloud.databaseservice.disabledatabasemanagementserviceforexternalcontainerdatabase.begin
+dbaasevents,Database,"External Container Database - Disable Database
+                                Management Service End",com.oraclecloud.databaseservice.disabledatabasemanagementserviceforexternalcontainerdatabase.end
+dbaasevents,Database,"External Container Database - Enable Database Management Service
+                                Begin",com.oraclecloud.databaseservice.enabledatabasemanagementserviceforexternalcontainerdatabase.begin
+dbaasevents,Database,"External Container Database - Enable Database Management Service
+                                End",com.oraclecloud.databaseservice.enabledatabasemanagementserviceforexternalcontainerdatabase.end
+dbaasevents,Database,"External Container Database - Scan Pluggable
+                                Databases Begin",com.oraclecloud.databaseservice.scanexternalcontainerdatabasepluggabledatabases.begin
+dbaasevents,Database,"External Container Database - Scan Pluggable Databases
+                                End",com.oraclecloud.databaseservice.scanexternalcontainerdatabasepluggabledatabases.end
+dbaasevents,Database,External Container Database - Update Begin,com.oraclecloud.databaseservice.updateexternalcontainerdatabase.begin
+dbaasevents,Database,External Container Database - Update End,com.oraclecloud.databaseservice.updateexternalcontainerdatabase.end
+dbaasevents,Database,External Database Connector - Check Status Begin,com.oraclecloud.databaseservice.checkexternaldatabaseconnectorconnectionstatus.begin
+dbaasevents,Database,External Database Connector - Check Status End,com.oraclecloud.databaseservice.checkexternaldatabaseconnectorconnectionstatus.end
+dbaasevents,Database,External Database Connector - Create Begin,com.oraclecloud.databaseservice.createexternaldatabaseconnector.begin
+dbaasevents,Database,External Database Connector - Create End,com.oraclecloud.databaseservice.createexternaldatabaseconnector.end
+dbaasevents,Database,External Database Connector - Delete,com.oraclecloud.databaseservice.deleteexternaldatabaseconnector
+dbaasevents,Database,External Database Connector - Update Begin,com.oraclecloud.databaseservice.updateexternaldatabaseconnector.begin
+dbaasevents,Database,External Database Connector - Update End,com.oraclecloud.databaseservice.updateexternaldatabaseconnector.end
+dbaasevents,Database,"External Non-Container Database - Change Compartment
+                                Begin",com.oraclecloud.databaseservice.changeexternalnoncontainerdatabasecompartment.begin
+dbaasevents,Database,External Non-Container Database - Change Compartment End,com.oraclecloud.databaseservice.changeexternalnoncontainerdatabasecompartment.end
+dbaasevents,Database,External Non-Container Database - Create,com.oraclecloud.databaseservice.createexternalnoncontainerdatabase
+dbaasevents,Database,External Non-Container Database - Delete Begin,com.oraclecloud.databaseservice.deleteexternalnoncontainerdatabase.begin
+dbaasevents,Database,External Non-Container Database - Delete End,com.oraclecloud.databaseservice.deleteexternalnoncontainerdatabase.end
+dbaasevents,Database,"External Non-Container Database - Disable Database Management
+                                Service Begin",com.oraclecloud.databaseservice.disabledatabasemanagementserviceforexternalnoncontainerdatabase.begin
+dbaasevents,Database,"External Non-Container Database - Disable Database Management
+                                Service End",com.oraclecloud.databaseservice.disabledatabasemanagementserviceforexternalnoncontainerdatabase.end
+dbaasevents,Database,"External Non-Container Database - Enable Database Management
+                                Service Begin",com.oraclecloud.databaseservice.enabledatabasemanagementserviceforexternalnoncontainerdatabase.begin
+dbaasevents,Database,"External Non-Container Database - Enable Database Management
+                                Service End",com.oraclecloud.databaseservice.enabledatabasemanagementserviceforexternalnoncontainerdatabase.end
+dbaasevents,Database,External Non-Container Database - Update Begin,com.oraclecloud.databaseservice.updateexternalnoncontainerdatabase.begin
+dbaasevents,Database,External Non-Container Database - Update End,com.oraclecloud.databaseservice.updateexternalnoncontainerdatabase.end
+dbaasevents,Database,External Pluggable Database - Change Compartment Begin,com.oraclecloud.databaseservice.changeexternalpluggabledatabasecompartment.begin
+dbaasevents,Database,External Pluggable Database - Change Compartment End,com.oraclecloud.databaseservice.changeexternalpluggabledatabasecompartment.end
+dbaasevents,Database,External Pluggable Database - Create,com.oraclecloud.databaseservice.createexternalpluggabledatabase
+dbaasevents,Database,External Pluggable Database - Delete Begin,com.oraclecloud.databaseservice.deleteexternalpluggabledatabase.begin
+dbaasevents,Database,External Pluggable Database - Delete End,com.oraclecloud.databaseservice.deleteexternalpluggabledatabase.end
+dbaasevents,Database,"External Pluggable Database - Disable Database Management Service
+                                Begin",com.oraclecloud.databaseservice.disabledatabasemanagementserviceforexternalpluggabledatabase.begin
+dbaasevents,Database,"External Pluggable Database - Disable Database Management Service
+                                End",com.oraclecloud.databaseservice.disabledatabasemanagementserviceforexternalpluggabledatabase.end
+dbaasevents,Database,"External Pluggable Database - Enable Database Management Service
+                                Begin",com.oraclecloud.databaseservice.enabledatabasemanagementserviceforexternalpluggabledatabase.begin
+dbaasevents,Database,"External Pluggable Database - Enable Database Management Service
+                                End",com.oraclecloud.databaseservice.enabledatabasemanagementserviceforexternalpluggabledatabase.end
+dbaasevents,Database,External Pluggable Database - Update Begin,com.oraclecloud.databaseservice.updateexternalpluggabledatabase.begin
+dbaasevents,Database,External Pluggable Database - Update End,com.oraclecloud.databaseservice.updateexternalpluggabledatabase.end
+file-events,File Storage,Change File System Compartment,com.oraclecloud.filestorage.changefilesystemcompartment
+file-events,File Storage,Create File System,com.oraclecloud.filestorage.createfilesystem
+file-events,File Storage, Delete File System,com.oraclecloud.filestorage.deletefilesystem
+file-events,File Storage, Update File System,com.oraclecloud.filestorage.updatefilesystem
+file-events,File Storage,Create Snapshot,com.oraclecloud.filestorage.createsnapshot
+file-events,File Storage,Delete Snapshot,com.oraclecloud.filestorage.deletesnapshot
+file-events,File Storage,Change Mount Target Compartment,com.oraclecloud.filestorage.changemounttargetcompartment
+file-events,File Storage,Create Mount Target,com.oraclecloud.filestorage.createmounttarget
+file-events,File Storage, Delete Mount Target,com.oraclecloud.filestorage.deletemounttarget
+file-events,File Storage, Update Mount Target,com.oraclecloud.filestorage.updatemounttarget
+file-events,File Storage,Create Export,com.oraclecloud.filestorage.createexport
+file-events,File Storage,Delete Export,com.oraclecloud.filestorage.deleteexport
+file-events,File Storage, Update Export,com.oraclecloud.filestorage.updateexport
+file-events,File Storage,Delete Export Set,com.oraclecloud.filestorage.deleteexportset
+file-events,File Storage, Update Export Set,com.oraclecloud.filestorage.updateexportset
+func-events,Functions,Change Application Compartment,com.oraclecloud.functions.changeapplicationcompartment
+func-events,Functions,Create Application,com.oraclecloud.functions.createapplication
+func-events,Functions,Delete Application,com.oraclecloud.functions.deleteapplication
+func-events,Functions,Update Application,com.oraclecloud.functions.updateapplication
+func-events,Functions,Create Function,com.oraclecloud.functions.createfunction
+func-events,Functions,Delete Function,com.oraclecloud.functions.deletefunction
+func-events,Functions,Update Function,com.oraclecloud.functions.updatefunction
+goldengate-events,,Create Deployment Begin,com.oraclecloud.goldengate.CreateDeployment.begin
+goldengate-events,,Create Deployment End,com.oraclecloud.goldengate.CreateDeployment.end
+goldengate-events,,Get Deployment,com.oraclecloud.goldengate.GetDeployment
+goldengate-events,,List Deployments,com.oraclecloud.goldengate.ListDeployment
+goldengate-events,,Delete Deployment Begin,com.oraclecloud.goldengate.DeleteDeployment.begin
+goldengate-events,,Delete Deployment End,com.oraclecloud.goldengate.DeleteDeployment.end
+goldengate-events,,Update Deployment Begin,com.oraclecloud.GoldenGate.UpdateDeployment.begin
+goldengate-events,,Update Deployment End,com.oraclecloud.GoldenGate.UpdateDeployment.end
+goldengate-events,,Start Deployment Begin,com.oraclecloud.GoldenGate.StartDeployment.begin
+goldengate-events,,Start Deployment End,com.oraclecloud.GoldenGate.StartDeployment.end
+goldengate-events,,Stop Deployment Begin,com.oraclecloud.GoldenGate.StopDeployment.begin
+goldengate-events,,Stop Deployment End,com.oraclecloud.GoldenGate.StopDeployment.end
+goldengate-events,,Restore Deployment Begin,com.oraclecloud.GoldenGate.RestoreDeployment.begin
+goldengate-events,,Restore Deployment End,com.oraclecloud.GoldenGate.RestoreDeployment.end
+goldengate-events,,Upgrade Deployment Begin,com.oraclecloud.GoldenGate.UpdateDeployment.begin
+goldengate-events,,Upgrade Deployment End,com.oraclecloud.GoldenGate.UpdateDeployment.end
+goldengate-events,,List Database Registrations,com.oraclecloud.goldengate.ListDatabaseRegistrations
+goldengate-events,,Get Database Registration,com.oraclecloud.goldengate.GetDatabaseRegistration
+goldengate-events,,Create Database Registration Begin,com.oraclecloud.goldengate.CreateDatabaseRegistration.begin
+goldengate-events,,Create Database Registration End,com.oraclecloud.goldengate.CreateDatabaseRegistration.end
+goldengate-events,,Update Database Registration Begin,com.oraclecloud.GoldenGate.UpdateDatabaseRegistration.begin
+goldengate-events,,Update Database Registration End,com.oraclecloud.GoldenGate.UpdateDatabaseRegistration.end
+goldengate-events,,Delete Database Registration Begin,com.oraclecloud.GoldenGate.DeleteDatabaseRegistration.begin
+goldengate-events,,Delete Database Registration End,com.oraclecloud.GoldenGate.DeleteDatabaseRegistration.end
+goldengate-events,,List Deployment Backups,com.oraclecloud.GoldenGate.ListDeploymentBackups
+goldengate-events,,Get Deployment Backup,com.oraclecloud.GoldenGate.GetDeploymentBackup
+goldengate-events,,Create Deployment Backup Begin,com.oraclecloud.GoldenGate.CreateDeploymentBackup.begin
+goldengate-events,,Create Deployment Backup End,com.oraclecloud.GoldenGate.CreateDeploymentBackup.end
+goldengate-events,,Delete Deployment Backup Begin,com.oraclecloud.GoldenGate.DeleteDeploymentBackup.begin
+goldengate-events,,Delete Deployment Backup End,com.oraclecloud.GoldenGate.DeleteDeploymentBackup.end
+events-healthchecks,Health Checks,Create HTTP Monitor,com.oraclecloud.healthchecks.createhttpmonitor
+events-healthchecks,Health Checks,Delete HTTPÂ Monitor,com.oraclecloud.healthchecks.deletehttpmonitor
+events-healthchecks,Health Checks,Update HTTP Monitor,com.oraclecloud.healthchecks.updatehttpmonitor
+events-healthchecks,Health Checks,Create Ping Monitor,com.oraclecloud.healthchecks.createpingmonitor
+events-healthchecks,Health Checks,Delete Ping Monitor,com.oraclecloud.healthchecks.deletepingmonitor
+events-healthchecks,Health Checks,Update Ping Monitor,com.oraclecloud.healthchecks.updatepingmonitor
+iam-events,IAM,Update Authentication Policy ,com.oraclecloud.identityControlPlane.UpdateAuthenticationPolicy
+iam-events,IAM," Create
+Auth Token",com.oraclecloud.identityControlPlane.CreateAuthToken
+iam-events,IAM,"Create
+Customer Secret Key ",com.oraclecloud.identityControlPlane.CreateCustomerSecretKey
+iam-events,IAM,"Create or Reset
+Password
+",com.oraclecloud.identityControlPlane.CreateOrResetPassword
+iam-events,IAM,"Create
+SMTP Credential ",com.oraclecloud.identityControlPlane.CreateSmtpCredential
+iam-events,IAM," Create
+Swift Password",com.oraclecloud.identityControlPlane.CreateSwiftPassword
+iam-events,IAM, DeleteAPI Key,com.oraclecloud.identityControlPlane.DeleteApiKey
+iam-events,IAM," Delete
+ Auth Token",com.oraclecloud.identityControlPlane.DeleteAuthToken
+iam-events,IAM," Delete
+Customer Secret Key",com.oraclecloud.identityControlPlane.DeleteCustomerSecretKey
+iam-events,IAM,"Delete
+SMTP Credential ",com.oraclecloud.identityControlPlane.DeleteSmtpCredential
+iam-events,IAM,"Delete
+Swift Password ",com.oraclecloud.identityControlPlane.DeleteSwiftPassword
+iam-events,IAM," Update
+Auth Token",com.oraclecloud.identityControlPlane.UpdateAuthToken
+iam-events,IAM,"Update
+Authentication Policy ",com.oraclecloud.identityControlPlane.UpdateAuthenticationPolicy
+iam-events,IAM,"Update
+Customer Secret Key  ",com.oraclecloud.identityControlPlane.UpdateCustomerSecretKey
+iam-events,IAM,"Update
+SMTP Credential ",com.oraclecloud.identityControlPlane.UpdateSmtpCredential
+iam-events,IAM,UpdateSwift Password ,com.oraclecloud.identityControlPlane.UpdateSwiftPassword
+iam-events,IAM," Upload
+API KEY",com.oraclecloud.identityControlPlane.UploadApiKey
+iam-events,IAM,"Create Dynamic Group
+",com.oraclecloud.identityControlPlane.CreateDynamicGroup
+iam-events,IAM," Delete
+Dynamic Group",com.oraclecloud.identityControlPlane.DeleteDynamicGroup
+iam-events,IAM, Update Dynamic Group,com.oraclecloud.identityControlPlane.UpdateDynamicGroup
+iam-events,IAM,Add User to Group,
+iam-events,IAM,"
+Create Group
+",
+iam-events,IAM,"
+Delete Group
+",
+iam-events,IAM,"Remove User From Group
+",
+iam-events,IAM,Update Group,
+iam-events,IAM, Add User to IdP Group,"com.oraclecloud.identityControlPlane.AddUserToIdpGroup
+"
+iam-events,IAM,Create Identity Provider ,"com.oraclecloud.identityControlPlane.CreateIdentityProvider
+"
+iam-events,IAM,"Create Identity Provider Group
+","com.oraclecloud.identityControlPlane.CreateIdentityProviderGroup
+"
+iam-events,IAM,Create IdP Group Mapping ,"com.oraclecloud.identityControlPlane.CreateIdpGroupMapping
+"
+iam-events,IAM,"Create IdP User
+",com.oraclecloud.identityControlPlane.CreateIdpUser
+iam-events,IAM,"Delete Identity Provider
+",com.oraclecloud.identityControlPlane.DeleteIdentityProvider
+iam-events,IAM,Delete Identity Provider Group,com.oraclecloud.identityControlPlane.DeleteIdentityProviderGroup
+iam-events,IAM,Delete IdP Group Mapping,com.oraclecloud.identityControlPlane.DeleteIdpGroupMapping
+iam-events,IAM,Delete IdP User,"com.oraclecloud.identityControlPlane.DeleteIdpUser
+"
+iam-events,IAM,Remove User From IdP Group,com.oraclecloud.identityControlPlane.RemoveUserFromIdpGroup
+iam-events,IAM,Reset IdP SCIM Client,"com.oraclecloud.identityControlPlane.ResetIdpScimClient
+"
+iam-events,IAM,Update Identity Provider,"com.oraclecloud.identityControlPlane.UpdateIdentityProvider
+"
+iam-events,IAM,"
+Update IdP Group Mapping","com.oraclecloud.identityControlPlane.UpdateIdpGroupMapping
+"
+iam-events,IAM,Activate MFAÂ TOTPÂ Device,"com.oraclecloud.identityControlPlane.ActivateMfaTotpDevice
+"
+iam-events,IAM,Create MFAÂ TOTPÂ Device,"com.oraclecloud.identityControlPlane.CreateMfaTotpDevice
+"
+iam-events,IAM,Delete MFAÂ TOTPÂ Device,"com.oraclecloud.identityControlPlane.DeleteMfaTotpDevice
+"
+iam-events,IAM,Generate MFAÂ TOTPÂ Device Seed,"com.oraclecloud.identityControlPlane.GenerateTotpSeed
+"
+iam-events,IAM,Create Policy,"com.oraclecloud.identityControlPlane.CreatePolicy
+"
+iam-events,IAM,Delete Policy,"com.oraclecloud.identityControlPlane.DeletePolicy
+"
+iam-events,IAM,Update Policy,"com.oraclecloud.identityControlPlane.UpdatePolicy
+"
+iam-events,IAM,Create User,com.oraclecloud.identityControlPlane.CreateUser
+iam-events,IAM,Delete User,com.oraclecloud.identityControlPlane.DeleteUser
+iam-events,IAM,Update User,com.oraclecloud.identityControlPlane.UpdateUser
+iam-events,IAM,Update User Capabilities,com.oraclecloud.identityControlPlane.UpdateUserCapabilities
+iam-events,IAM,Update User State,com.oraclecloud.identityControlPlane.UpdateUserState
+networkingevents,Networking,Change DHCP Options Compartment,com.oraclecloud.virtualnetwork.changedhcpoptionscompartment
+networkingevents,Networking,Create DHCP Options,com.oraclecloud.virtualnetwork.createdhcpoptions
+networkingevents,Networking,Delete DHCP Options,com.oraclecloud.virtualnetwork.deletedhcpoptions
+networkingevents,Networking,Update DHCP Options,com.oraclecloud.virtualnetwork.updatedhcpoptions
+networkingevents,Networking,Create DRG,com.oraclecloud.virtualnetwork.createdrg
+networkingevents,Networking,Delete DRG,com.oraclecloud.virtualnetwork.deletedrg
+networkingevents,Networking,Update DRG,com.oraclecloud.virtualnetwork.updatedrg
+networkingevents,Networking,Create DRG Attachment,com.oraclecloud.virtualnetwork.createdrgattachment
+networkingevents,Networking,Delete DRG Attachment,com.oraclecloud.virtualnetwork.deletedrgattachment
+networkingevents,Networking,Update DRG Attachment,com.oraclecloud.virtualnetwork.updatedrgattachment
+networkingevents,Networking,Change Internet Gateway Compartment,com.oraclecloud.virtualnetwork.changeinternetgatewaycompartment
+networkingevents,Networking,Create Internet Gateway,com.oraclecloud.virtualnetwork.createinternetgateway
+networkingevents,Networking,Delete Internet Gateway,com.oraclecloud.virtualnetwork.deleteinternetgateway
+networkingevents,Networking,Update Internet Gateway,com.oraclecloud.virtualnetwork.updateinternetgateway
+networkingevents,Networking,Change Local Peering Gateway Compartment,com.oraclecloud.virtualnetwork.changelocalpeeringgatewaycompartment
+networkingevents,Networking,Create Local Peering Gateway ,com.oraclecloud.virtualnetwork.createlocalpeeringgateway
+networkingevents,Networking,Delete Local Peering Gateway ,com.oraclecloud.virtualnetwork.deletelocalpeeringgateway
+networkingevents,Networking,Update Local Peering Gateway ,com.oraclecloud.virtualnetwork.updatelocalpeeringgateway
+networkingevents,Networking,Change NAT Gateway Compartment,com.oraclecloud.natgateway.changenatgatewaycompartment
+networkingevents,Networking,Create NAT Gateway,com.oraclecloud.natgateway.createnatgateway
+networkingevents,Networking,Delete NAT Gateway,com.oraclecloud.natgateway.deletenatgateway
+networkingevents,Networking,Update NAT Gateway,com.oraclecloud.natgateway.updatenatgateway
+networkingevents,Networking,Change Network Security Group Compartment,com.oraclecloud.virtualnetwork.changenetworksecuritygroupcompartment
+networkingevents,Networking,Create Network Security Group,com.oraclecloud.virtualnetwork.createnetworksecuritygroup
+networkingevents,Networking,Delete Network Security Group,com.oraclecloud.virtualnetwork.deletenetworksecuritygroup
+networkingevents,Networking,Update Network Security Group,com.oraclecloud.virtualnetwork.updatenetworksecuritygroup
+networkingevents,Networking,Create Private IP,com.oraclecloud.virtualnetwork.createprivateip
+networkingevents,Networking,Delete Private IP,com.oraclecloud.virtualnetwork.deleteprivateip
+networkingevents,Networking,Update Private IP,com.oraclecloud.virtualnetwork.updateprivateip
+networkingevents,Networking,Change Public IP Compartment,com.oraclecloud.virtualnetwork.changepublicipcompartment
+networkingevents,Networking,Create Public IP,com.oraclecloud.virtualnetwork.createpublicip
+networkingevents,Networking,Delete Public IP,com.oraclecloud.virtualnetwork.deletepublicip
+networkingevents,Networking,Update Public IP,com.oraclecloud.virtualnetwork.updatepublicip
+networkingevents,Networking,Change Route Table Compartment,com.oraclecloud.virtualnetwork.changeroutetablecompartment
+networkingevents,Networking,Create Route Table,com.oraclecloud.virtualnetwork.createroutetable
+networkingevents,Networking,Delete Route Table,com.oraclecloud.virtualnetwork.deleteroutetable
+networkingevents,Networking,Update Route Table,com.oraclecloud.virtualnetwork.updateroutetable
+networkingevents,Networking,Change Security List Compartment,com.oraclecloud.virtualnetwork.changesecuritylistcompartment
+networkingevents,Networking,Create Security List,com.oraclecloud.virtualnetwork.createsecuritylist
+networkingevents,Networking,Delete Security List,com.oraclecloud.virtualnetwork.deletesecuritylist
+networkingevents,Networking,Update Security List,com.oraclecloud.virtualnetwork.updatesecuritylist
+networkingevents,Networking,Attach Service,com.oraclecloud.servicegateway.attachserviceid
+networkingevents,Networking,Change Service Gateway Compartment,com.oraclecloud.servicegateway.changeservicegatewaycompartment
+networkingevents,Networking,Create Service Gateway,com.oraclecloud.servicegateway.createservicegateway
+networkingevents,Networking,Delete Service Gateway End,com.oraclecloud.servicegateway.deleteservicegateway.end
+networkingevents,Networking,Delete Service Gateway Start,com.oraclecloud.servicegateway.deleteservicegateway.begin 
+networkingevents,Networking,Detach Service,com.oraclecloud.servicegateway.detachserviceid
+networkingevents,Networking,Update Service Gateway,com.oraclecloud.servicegateway.updateservicegateway
+networkingevents,Networking,Create Subnet,com.oraclecloud.virtualnetwork.createsubnet
+networkingevents,Networking,Delete Subnet,com.oraclecloud.virtualnetwork.deletesubnet
+networkingevents,Networking,Update Subnet,com.oraclecloud.virtualnetwork.updatesubnet
+networkingevents,Networking,Create VCN,com.oraclecloud.virtualnetwork.createvcn
+networkingevents,Networking,Delete VCN,com.oraclecloud.virtualnetwork.deletevcn
+networkingevents,Networking,Update VCN,com.oraclecloud.virtualnetwork.updatevcn
+networkingevents,Networking,Update VNIC,com.oraclecloud.virtualnetwork.updatevnic
+networkingevents,Networking,Create VLAN,com.oraclecloud.virtualnetwork.createvlan
+networkingevents,Networking,Update VLAN,com.oraclecloud.virtualnetwork.updatevlan
+networkingevents,Networking,Delete VLAN,com.oraclecloud.virtualnetwork.deletevlan
+NotificationsEvents,Notifications,Create Subscription,com.oraclecloud.notification.createsubscription
+NotificationsEvents,Notifications,Delete Subscription,com.oraclecloud.notification.deletesubscription
+NotificationsEvents,Notifications,Get Unsubscription,com.oraclecloud.notification.getunsubscription
+NotificationsEvents,Notifications,Move Subscription,com.oraclecloud.notification.movesubscription
+NotificationsEvents,Notifications,Resend Subscription Confirmation,com.oraclecloud.notification.resendsubscriptionconfirmation
+NotificationsEvents,Notifications,Update Subscription,com.oraclecloud.notification.updatesubscription
+NotificationsEvents,Notifications,Create Topic,com.oraclecloud.notification.createtopic
+NotificationsEvents,Notifications,Delete Topic,com.oraclecloud.notification.deletetopic
+NotificationsEvents,Notifications,Move Topic,com.oraclecloud.notification.movetopic
+NotificationsEvents,Notifications,Update Topic,com.oraclecloud.notification.updatetopic
+ObjectStor,Object Storage,Create Bucket,com.oraclecloud.objectstorage.createbucket
+ObjectStor,Object Storage,Delete Bucket,com.oraclecloud.objectstorage.deletebucket
+ObjectStor,Object Storage,Update Bucket,com.oraclecloud.objectstorage.updatebucket
+ObjectStor,Object Storage,Create Object,com.oraclecloud.objectstorage.createobject
+ObjectStor,Object Storage,Delete Object,com.oraclecloud.objectstorage.deleteobject
+ObjectStor,Object Storage,Update Object,com.oraclecloud.objectstorage.updateobject
+operations-insights,,Ingest SQL Bucket,com.oraclecloud.OperationsInsights.IngestSqlBucket
+operations-insights,,Ingest SQL Plan Lines,com.oraclecloud.OperationsInsights.IngestSqlPlanLines
+operations-insights,,Ingest SQL Text,com.oraclecloud.OperationsInsights.IngestSqlText
+operations-insights,,List Database Insights,com.oraclecloud.OperationsInsights.ListDatabaseInsights
+operations-insights,,List SQL Plans,com.oraclecloud.OperationsInsights.ListSqlPlans
+operations-insights,,List SQL Searches,com.oraclecloud.OperationsInsights.ListSqlSearches
+operations-insights,,Summarize Database Insight Resource Capacity Trend,com.oraclecloud.OperationsInsights.SummarizeDatabaseInsightResourceCapacityTrend
+operations-insights,,Summarize Database Insight Resource Forecast Trend,com.oraclecloud.OperationsInsights.SummarizeDatabaseInsightResourceForecastTrend
+operations-insights,,Summarize Database Insight Resource Statistics,com.oraclecloud.OperationsInsights.SummarizeDatabaseInsightResourceStatistics
+operations-insights,,Summarize Database Insight Resource Usage,com.oraclecloud.OperationsInsights.SummarizeDatabaseInsightResourceUsage
+operations-insights,,Summarize Database Insight Resource Utilization Insight,com.oraclecloud.OperationsInsights.SummarizeDatabaseInsightResourceUtilizationInsight
+operations-insights,,Summarize Database Insight Resource Usage Trend,com.oraclecloud.OperationsInsights.SummarizeDatabaseInsightResourceUsageTrend
+operations-insights,,Summarize SQL Insights,com.oraclecloud.OperationsInsights.SummarizeSqlInsights
+operations-insights,,Summarize SQL Plan Insights,com.oraclecloud.OperationsInsights.SummarizeSqlPlanInsights
+operations-insights,,Summarize SQL Response Time Distributions,com.oraclecloud.OperationsInsights.SummarizeSqlResponseTimeDistributions
+operations-insights,,Summarize SQL Statistics,com.oraclecloud.OperationsInsights.SummarizeSqlStatistics
+operations-insights,,Summarize SQL Statistics Time Series,com.oraclecloud.OperationsInsights.SummarizeSqlStatisticsTimeSeries
+operations-insights,,Summarize SQL Statistics Time Series By Plan,com.oraclecloud.OperationsInsights.SummarizeSqlStatisticsTimeSeriesByPlan
+ormevents,Resource Manager,Cancel Job,com.oraclecloud.oracleresourcemanager.canceljob
+ormevents,Resource Manager,Create Job Begin,com.oraclecloud.oracleresourcemanager.createjob.begin
+ormevents,Resource Manager,Create Job End,com.oraclecloud.oracleresourcemanager.createjob.end
+ormevents,Resource Manager,Update Job,com.oraclecloud.oracleresourcemanager.updatejob
+ormevents,Resource Manager,Change Compartment Begin,com.oraclecloud.oracleresourcemanager.changestackcompartment.begin
+ormevents,Resource Manager,Change Compartment End,com.oraclecloud.oracleresourcemanager.changestackcompartment.end
+ormevents,Resource Manager,Create Stack,com.oraclecloud.oracleresourcemanager.createstack
+ormevents,Resource Manager,Delete Stack,com.oraclecloud.oracleresourcemanager.deletestack
+ormevents,Resource Manager,Update Stack,com.oraclecloud.oracleresourcemanager.updatestack
+waf,WAF,Change Waas Policy Compartment,com.oraclecloud.waf.changewaaspolicycompartment
+waf,WAF,Create Waas Policy Begin,com.oraclecloud.waf.createwaaspolicy.begin
+waf,WAF,Create Waas Policy End,com.oraclecloud.waf.createwaaspolicy.end
+waf,WAF,Delete Waas Policy Begin,com.oraclecloud.waf.deletewaaspolicy.begin
+waf,WAF,Delete Waas Policy End,com.oraclecloud.waf.deletewaaspolicy.end
+waf,WAF,Update Waas Policy Begin,com.oraclecloud.waf.updatewaaspolicy.begin
+waf,WAF,Update Waas Policy End,com.oraclecloud.waf.updatewaaspolicy.end
+waf,WAF,Change Address List Compartment,com.oraclecloud.waf.changeaddresslistcompartment
+waf,WAF,Create Address List,com.oraclecloud.waf.createaddresslist
+waf,WAF,Delete Address List,com.oraclecloud.waf.deleteaddresslist
+waf,WAF,Update Address List,com.oraclecloud.waf.updateaddresslist
+waf,WAF,Change Custom Protection Rule Compartment,com.oraclecloud.waf.changecustomprotectionrulecompartment
+waf,WAF,Create Custom Protection Rule,com.oraclecloud.waf.createcustomprotectionrule
+waf,WAF,Delete Custom Protection Rule,com.oraclecloud.waf.deletecustomprotectionrule
+waf,WAF,Update Custom Protection Rule,com.oraclecloud.waf.updatecustomprotectionrule
+waf,WAF,Update Waas Policy Custom Protection Rules,com.oraclecloud.waf.updatewaaspolicycustomprotectionrules
+waf,WAF,Change Certificate Compartment,com.oraclecloud.waf.changecertificatecompartment
+waf,WAF,Create Certificate,com.oraclecloud.waf.createcertificate
+waf,WAF,Delete Certificate,com.oraclecloud.waf.deletecertificate
+waf,WAF,Update Certificate,com.oraclecloud.waf.updatecertificate
